@@ -48,7 +48,7 @@ This is an application that will allow you to listen to that favorite pdcast whi
 - [x] List latest podcast
 - [x] List all podcast
 - [x] Player control
-- [] Responsive layout
+- [ ] Responsive layout
 
 
 ## How to install and use
